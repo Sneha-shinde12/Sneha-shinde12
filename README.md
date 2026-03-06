@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Sneha 👋
 
-<!--
-**Sneha-shinde12/Sneha-shinde12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst passionate about transforming data into meaningful insights.
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Python
+- Power BI
+- Excel
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Airport Authority Operations Analysis
+- Telecom Customer Churn Analysis
+- Healthcare Data Analysis
+
+## Tools
+SQL | Python | Excel | Power BI | Jupyter Notebook
+
+## Goal
+Seeking opportunities to work as a Data Analyst and solve real-world business problems using data.
